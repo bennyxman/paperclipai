@@ -1,2 +1,0 @@
-# paperclipai
-paperclipai_my_personal _Business_System
